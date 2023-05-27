@@ -1,0 +1,99 @@
+{
+  "datajeans":
+    [
+      {
+        "id":"J0001",
+        "photo":"https://www.politix.com.au/dw/image/v2/ABBA_PRD/on/demandware.static/-/Sites-politix-master-catalog/default/dw94df1b29/images/hires/Summer%202022/B4/Day%201/bd37-mid-indigo-1.jpg?sw=2500&sh=3000&sm=cut",
+        "name":"Relaxed Slim Denim Jeann",
+        "price":"12$"
+      },
+      {
+        "id":"J0002",
+        "photo":"https://tiimg.tistatic.com/fp/1/008/334/casual-wear-blue-denim-damage-loose-jeans-for-girls-425.jpg",
+        "name":"Casaul Wear Blue Denim",
+        "price":"10$"
+      },
+      {
+        "id":"J0003",
+        "name":"Solid Color Jeans",
+        "photo":"https://ae01.alicdn.com/kf/S8e9c003662a54017afb62f4f3d9b9d52q/Solid-Color-Jeans-for-Girls-Spring-Autumn-Children-Bottom-Clothes-Kids-Sports-Denim-Jeans-Drawstring-Long.jpg_640x640.jpg",
+        "price":"9$"
+      },
+      {
+        "id":"J004",
+        "name":"Summer Fashion Women",
+        "photo":"https://ae01.alicdn.com/kf/S1b61e5a6d08444f092fd9b9285b2d6116/Summer-Fashion-Women-Jeans-Chic-Striped-Patchwork-Washed-Vintage-Casual-Loose-High-Waist-Drawstring-Mom-All.jpg",
+        "price":"11$"
+      },
+      {
+        "id":"J005",
+        "name":"Women Loose Denim Pants",
+        "photo":"https://i.etsystatic.com/20136387/r/il/dbeff1/2494956205/il_fullxfull.2494956205_5c4y.jpg",
+        "price":"21$"
+      },
+      {
+        "id":"J0006",
+        "name":"Women's Harem Denim Pants Hight",
+        "photo":"https://ae01.alicdn.com/kf/Hd52da413871d4793afd20c2b2b29dc04O/Women-s-Harem-Denim-Pants-High-Waist-Pencil-Jeans-for-Women-Mom-Denim-Jeans-Casual-Retro.jpg_640x640.jpg",
+        "price":"11$"
+      }
+    ],
+    "dataShirt":[
+      {
+        "id":"S0006",
+        "name":"Women T-Shirts",
+        "photo":      "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13930788/2021/8/6/38d6c0e3-cda3-4059-a673-2cdb0bafae181628241011946-DILLINGER-Women-Tshirts-8941628241011571-1.jpg",
+        "price": "7$"
+      },
+      {
+        "id":"S0007",
+        "name":"Women's Summer ",
+        "photo":"https://ae01.alicdn.com/kf/H731e8f4b6d0347de8566a88f51912da06/Women-S-Summer-Street-Alaska-Los-Angeles-Print-Tshirts-Harajuku-Tops-Fashion-O-Neck-Loose-Y2K.jpg_640x640.jpg",
+        "price":"9$"
+      },
+      {
+        "id":"S0008",
+        "name":"Spring T-Shirt",
+        "photo":"https://i.ebayimg.com/images/g/9MsAAOSwcSlhlweW/s-l400.png",
+        "price":"17$"
+      },
+      {
+        "id":"S0009",
+        "name":"Oversized T-Shirt",
+        "photo":"https://sc04.alicdn.com/kf/He0bcbd4f67d2479981d6a89c72aadcf2C/252459222/He0bcbd4f67d2479981d6a89c72aadcf2C.jpg",
+        "price":"12$"        
+      },
+      {
+        "id":"S0010",
+        "name":"Crop TOP",
+        "photo":"https://imagescdn.forever21.in/img/app/product/4/460820-3189648.jpg?w=412&auto=format",
+        "price":"11$"
+      }
+    ],
+  "pantsdata":[
+    {
+      "id":"P0011",
+      "name":"Black Pants",
+      "photo":"https://i.ebayimg.com/images/g/EQoAAOSwhcRig0fU/s-l500.jpg",
+      "price":"15$"     
+    },
+    {
+      "id":"P0012",
+      "name":"Zaful Women's Cargo Pants",
+      "photo":"https://m.media-amazon.com/images/I/61CUBQufyNL._AC_SL1500_.jpg",
+      "price":"13$"
+    },
+    {
+      "id":"P0013",
+      "name":"Ripped Jeans",
+      "photo":"https://ae01.alicdn.com/kf/S3e4def4adc9742c9b64c977da0d66277v/New-Fashion-Kids-Ripped-Jeans-For-Teen-Girls-Fit-Spring-Autumn-Jeans-Baby-Girl-Elastic-Waist.jpg",
+      "price":"21$"
+    },
+    {
+      "id":"P0014",
+      "name":"Jeans Retro Denim Pants",
+      "photo":"https://ae01.alicdn.com/kf/HTB1rfdedG5s3KVjSZFNq6AD3FXaA/High-Quality-2021-High-Waist-Jeans-For-Girls-Kids-Metal-Buttons-Jeans-Retro-Denim-Pants-For.jpg",
+      "price":"11$"      
+    }
+  ]
+}
