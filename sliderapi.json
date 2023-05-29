@@ -1,0 +1,23 @@
+{
+  "sliderapi":[
+    {
+      "id":"Free_001",
+      "name":"Joden II",
+      "photo":"https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/k/i/6/6-jimny-white-6-sfr-white-original-imagnp4zhejww3uf.jpeg?q=70",
+      "price":"12$",
+      "discount":"10%"
+    },{
+      "id":"Free_002",
+      "name":"Joden III",
+      "photo":                  "https://images.meesho.com/images/products/119544768/7pyu4_512.jpg",
+      "price":"11$",
+      "discount":"15%"
+    },{
+      "id":"Free_003",
+      "name":"Joden IV",
+      "photo":                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFmIw-tzEUNVKLIvYn3kw7A3RwwwwEVWsaU5gGGNAZzX8IbBCAcVUs-mAtV-4e8AY-50&usqp=CAU",
+      "discount":"10%",
+      "price":"10$"
+    }
+  ]
+}
