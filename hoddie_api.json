@@ -1,0 +1,109 @@
+[
+  {
+    "id":"Hoodie HA0001",
+    "name":"Whycat Cute Cat Hoodies",
+    "photo":"https://m.media-amazon.com/images/I/51lwAPjpANL._AC_SX385_.jpg",
+    "price":"9.99$"
+    }, {
+    "id":"Hoodie HA0002",
+    "name":"Whycat Cute Cat Hoodies SweatShirt",
+    "photo":"https://m.media-amazon.com/images/I/31NbF8R9S+L._AC_.jpg",
+    "price":"12.24$"
+  }, {
+    "id":"Hoodie HA0003",
+    "name":"Gofodn Pullover Hoodie",
+    "photo":"https://m.media-amazon.com/images/I/51ryumv18dL._AC_SX385_.jpg",
+    "price":"14.50$"
+  }, {
+    "id":"Hoodie HA0004",
+    "name":"Xinshide Sweatershirt",
+    "photo":"https://i5.walmartimages.com/asr/337dc572-ecbb-46c1-b3ff-dd58972cfc60.33046b7e8a49173f1c6c49d2af04e053.jpeg",
+    "price":"17.75$"
+  }, {
+    "id":"Hoodie HA0005",
+    "name":"Thick Womens Hoodies Pullover",
+    "photo":"https://m.media-amazon.com/images/I/61HAeG48scL._AC_SX522_.jpg",
+    "price":"4.99$"
+  },
+  {
+    "id":"Hoodie HA0006",
+    "name":"SOLY HUX Women's Dragon latter",
+    "photo":"https://m.media-amazon.com/images/I/61g3aCW-9SL._AC_SY606_.jpg",
+    "price":"6.99$"
+  }, {
+    "id":"Hoodie HA0007",
+    "name":"Women's Pullover Hoodie Crewneck",
+    "photo":"https://i5.walmartimages.com/asr/8e183c4d-92c3-4589-962b-4ed0f51a03bc.718c0d97b3bfce300bee7f6f6244b70b.jpeg",
+    "price":"12.99$"
+  }, {
+    "id":"Hoodie HA0008",
+    "name":"Hemlock Teen Girls Hoodiess Heart",
+    "photo":"https://m.media-amazon.com/images/I/61LLzHzIaXL._AC_UY1100_.jpg",
+    "price":"6.66$"
+  }, {
+    "id":"Hoodie HA0009",
+    "name":"Gap Logo Hoodie",
+    "photo":"https://www.gap.si/images/magonline/media/edited/a/a5/a58/a58558b4-e43b-4e7b-b7ec-c3b0b6b2ed0c.N.jpg",
+    "price":"11.30$"
+  }, {
+    "id":"Hoodie HB0001",
+    "name":"DrawString Hoodie",
+    "photo":"https://i.pinimg.com/originals/65/50/bc/6550bc49f372eaf20138a3355488b94b.jpg",
+    "price":"17.99$"
+  }, {
+    "id":"Hoodie HB0002",
+    "name":"Maroon/Black Color Block Hoodie",
+    "photo":"https://m.media-amazon.com/images/I/515DwMIlS7L._AC_SX342_.jpg",
+    "price":"10.99$"
+  }, {
+    "id":"Hoodie HB0003",
+    "name":"Women's Fashion Hoodies sweatShirt",
+    "photo":"https://m.media-amazon.com/images/I/51xbIx0N+uL._AC_SX385_.jpg",
+    "price":"14.99$"
+  }, {
+    "id":"Hoodie HB0004",
+    "name":"Kawaii SweatShirt",
+    "photo":"https://m.media-amazon.com/images/I/31sIBs4Wt3L._SL500_FMwebp_.jpg",
+    "price":"17.99$"
+  }, {
+    "id":"Hoodie HB0005",
+    "name":"Lovely Sheep Print Pastel",
+    "photo":"https://images-na.ssl-images-amazon.com/images/I/61WxrnLhBzL._AC_SR462,693_.jpg",
+    "price":"12.49$"
+  }, {
+    "id":"Hoodie HB0006",
+    "name":"WOCACHI Teen Girls Kawaii Dinosaur",
+    "photo":"https://m.media-amazon.com/images/I/71TiRY0aRdL._AC_SX385_.jpg",
+    "price":"17.99$"
+  }, {
+    "id":"Hoodie HB0007",
+    "name":"VOSS Women Cute Dinosaur",
+    "photo":"https://i5.walmartimages.com/asr/1a505c68-2c9b-4c3e-8426-1119d0dca510.1e12beb543d6b3778253fb751e5e77d5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "price":"22.00$"
+  }, {
+    "id":"Hoodie HB0008",
+    "name":"ZAFUL Two Tone Fleece Lined Bicolor Hoodie",
+    "photo":"https://i.pinimg.com/736x/e7/63/f9/e763f9fb45f38104e779b1f990351ef8.jpg",
+    "price":"11.00$"
+  }, {
+    "id":"Hoodie HB0009",
+    "name":"Angel Love-Cat Print Two-Tone Hoodie",
+    "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/GalleryImage/19/579/L_g0121857919.jpg",
+    "price":"12.23$"
+  }, {
+    "id":"Hoodie HC0001",
+    "name":"Hamster Print Color-Block Hoodie",
+    "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/20/016/XXL_p0132501620.jpg",
+    "price":"29.90$"
+  }, {
+    "id":"Hoodie HC0002",
+    "name":"Autumn New Japanese Women HaraJuku",
+    "photo":"https://www.dhresource.com/260x260/f2/albu/g10/M00/74/24/rBVaWVwSAq6AXRALAAMmv6NJNDo225.jpg",
+    "price":"30.99$"
+  },{
+    "id":"Hoodie HC0003",
+    "name":"Plus Size Fall Women's SweatShirts",
+    "photo":"https://m.media-amazon.com/images/I/315bM8IrSKL._AC_.jpg",
+    "price":"21.21$"
+  }
+]
