@@ -1,0 +1,57 @@
+[
+  {
+    "id":"KUA KA001",
+    "name":"Redbubble",
+    "photo":"https://images.ctfassets.net/40akseett7bn/4r0ezqb0H8BwHoNNCUDQvB/aa1710a1e0c6d6e444b0046d0f2a848d/dad_hat_bubble.jpeg",
+    "price":"10.89$"
+  },
+  {
+    "id":"KUA KA002",
+    "name":"Hat Cali Beanie",
+    "photo":"https://www.gandrs.lv/content/items/2019-10/cepure-cali-beanie-1024x768.jpg",
+    "price":"29.99$"
+  },
+  {
+    "id":"KUA KA003",
+    "name":"Bento Knit Beanie",
+    "photo":"https://img.hatshopping.co.uk/Bento-Knit-Beanie-by-Chillouts.54816_pf4.jpg",
+    "price":"25.99$"
+  },
+  {
+    "id":"KUA KA004",
+    "name":"Skate Brim - Visor Beanie for Men",
+    "photo":"https://images.boardriders.com/global/dcshoes-products/all/default/large/adyha03858_dcshoes,f_kvj0_frt1.jpg",
+    "price":"16.40$"
+  },
+  {
+    "id":"KUA KA005",
+    "name":"Army Cadet Style Beanie Cap",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUu8ZJWm19Hz7gqmpzrzoRj5j7A91IPQIbLo0X9Ktsp4dN2J4oGWEWwGDS5YRLulBsnk&usqp=CAU",
+    "price":"34.00$"
+  },
+  {
+    "id":"KUA KA006",
+    "name":"Cold-Weather Hats",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCePhwd8RVUjB7p_WDaTQFwgutp31gfd7rFdGAdT2mwZpXMgIazI3qsBpGgal6aa62cc&usqp=CAU",
+    "price":"23.50$"
+  },
+  {
+    "id":"KUA KA007",
+    "name":"Large heads Winter",
+    "photo":"https://i.ebayimg.com/images/g/udsAAOSwvjBhf~OH/s-l500.jpg",
+    "price":"25.50$"
+  },
+  {
+    "id":"KUA KA008",
+    "name":"Bucket Hat",
+    "photo":"https://cdn.shopify.com/s/files/1/0595/2054/9027/products/1117_BUCKET_HAT_BLACK__22148.1589000972.jpg?v=1672805324",
+    "price":"11.45$"
+  },
+  {
+    "id":"KUA KA009",
+    "name":"accasa Trucker Hat Girls Baseball",
+    "photo":"https://i5.walmartimages.com/asr/b2e5f189-df67-4da1-9eb5-12eb915aa5f4.963bcce9c23315ce08847c6eca4b4c79.jpeg",
+    "price":"12.45$"
+  }
+
+]
