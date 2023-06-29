@@ -3,27 +3,32 @@
       "id":"PUA PA001",
       "name":"Womens Casual Formal Pants",
       "photo":"https://i.ebayimg.com/images/g/idoAAOSwMNpgfSj5/s-l1600.jpg",
-      "price":31.73},
+      "price":31.73
+  },
   {
       "id":"PUA PA002",
       "name":"Women Cargo Pants",
       "photo":"https://ae01.alicdn.com/kf/S497d216323f042049b98c9aaf0a3e71cK/Women-Cargo-Pants-All-Match-Vintage-Retro-Lady-Cargo-Trousers-Wide-Leg-Casual-Everyday-Wear-Polyester.jpg_220x220.jpg_.webp",
-      "price":25.00},
+      "price":25.00
+  },
   {
       "id":"PUA PA003",
       "name":"Cargo Pants Women Autumn",
       "photo":"https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/67/777704/1.jpg?8999",
-      "price":19.23},
+      "price":19.23
+  },
   {
       "id":"PUA PA004",
       "name":"Pants Women Spring",
       "photo":"https://ae01.alicdn.com/kf/Hb7230b3ef13b4db181b2b41cd0401e11y/Neutrals-Blue-Varsity-Bomber-Jacket-Women-Contrast-Sleeve-PU-Leather-Coat-Female-Embroidery-Casual-Baseball-Winter.jpg_Q90.jpg_.webp",
-      "price":21.21},
+      "price":21.21
+  },
   {
       "id":"PUA PA005",
       "name":"Detachable Cargo Pants",
       "photo":"https://m.media-amazon.com/images/I/51wKVhueWfS._AC_UY350_.jpg",
-      "price":44.79},
+      "price":44.79
+  },
   {
       "id":"PUA PA006",
       "name":" Women Grey Pleated Trouser",
@@ -35,12 +40,12 @@
       "photo":"https://ae01.alicdn.com/kf/S6a4c301067374358ab2321af34eecf46o/BGTEEVER-Stylish-Loose-Wide-Leg-Trousers-Women-Spring-Summer-High-Waist-Casual-Pockets-Solid-Ladies-Long.jpg_220x220.jpg_.webp",
       "price":25.35
   },
-  
   {
       "id":"PUA PA009",
       "name":"Women Stylish Pants",
       "photo":"https://i.etsystatic.com/21591861/r/il/df777d/3034078107/il_794xN.3034078107_j1yy.jpg",
-      "price":19.16},
+      "price":19.16
+  },
   {
       "id":"PUA PA010",
       "name":"Buy Pants Online | LBB",
@@ -58,6 +63,5 @@
       "name":"Acheter>Closed Jeans Bella Grande Vente",
       "photo":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/closd/closd3019118c8a/closd3019118c8a_q1_2-0._SX664_QL90_.jpg",
       "price":45.12
-  }
-  
+  } 
   ]
