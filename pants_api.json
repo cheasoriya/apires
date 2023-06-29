@@ -3,77 +3,61 @@
       "id":"PUA PA001",
       "name":"Womens Casual Formal Pants",
       "photo":"https://i.ebayimg.com/images/g/idoAAOSwMNpgfSj5/s-l1600.jpg",
-      "price":"31.73$"},
+      "price":31.73},
   {
       "id":"PUA PA002",
       "name":"Women Cargo Pants",
       "photo":"https://ae01.alicdn.com/kf/S497d216323f042049b98c9aaf0a3e71cK/Women-Cargo-Pants-All-Match-Vintage-Retro-Lady-Cargo-Trousers-Wide-Leg-Casual-Everyday-Wear-Polyester.jpg_220x220.jpg_.webp",
-      "price":"25.00$"},
+      "price":25.00},
   {
       "id":"PUA PA003",
       "name":"Cargo Pants Women Autumn",
       "photo":"https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/67/777704/1.jpg?8999",
-      "price":"19.23$"},
+      "price":19.23},
   {
       "id":"PUA PA004",
       "name":"Pants Women Spring",
       "photo":"https://ae01.alicdn.com/kf/Hb7230b3ef13b4db181b2b41cd0401e11y/Neutrals-Blue-Varsity-Bomber-Jacket-Women-Contrast-Sleeve-PU-Leather-Coat-Female-Embroidery-Casual-Baseball-Winter.jpg_Q90.jpg_.webp",
-      "price":"21.21$"},
+      "price":21.21},
   {
       "id":"PUA PA005",
       "name":"Detachable Cargo Pants",
       "photo":"https://m.media-amazon.com/images/I/51wKVhueWfS._AC_UY350_.jpg",
-      "price":"44.79$"},
+      "price":44.79},
   {
       "id":"PUA PA006",
       "name":" Women Grey Pleated Trouser",
       "photo":"https://m.media-amazon.com/images/I/61sKbEdHToL._AC_UF1000,1000_QL80_.jpg",
-      "price":"32.33$"},
+      "price":32.33},
   {
       "id":"PUA PA007",
       "name":"BGTEEVER",
       "photo":"https://ae01.alicdn.com/kf/S6a4c301067374358ab2321af34eecf46o/BGTEEVER-Stylish-Loose-Wide-Leg-Trousers-Women-Spring-Summer-High-Waist-Casual-Pockets-Solid-Ladies-Long.jpg_220x220.jpg_.webp",
-      "price":"25.35$"
+      "price":25.35
   },
-  {
-      "id":"PUA PA008",
-      "name":"Literary",
-      "photo":"https://cdn.shopify.com/s/files/1/0525/5433/4385/products/Literary-Retro-Polished-White-Harem-Pants-Autumn-Loose-All-match-High-Waist-Trousers-Women-Double-Large_1_590x.jpg?v=1665127568",
-      "price":"87.56$"
-  },
+  
   {
       "id":"PUA PA009",
       "name":"Women Stylish Pants",
       "photo":"https://i.etsystatic.com/21591861/r/il/df777d/3034078107/il_794xN.3034078107_j1yy.jpg",
-      "price":"19.16$"},
+      "price":19.16},
   {
       "id":"PUA PA010",
       "name":"Buy Pants Online | LBB",
       "photo":"https://imgmedia.lbb.in/media/2021/06/60cdbecf0b8e8540ae5752df_1624096463234.jpg",
-      "price":"18.99$"
+      "price":18.99
   },
   {
       "id":"PUA PA011",
       "name":"Women's Trousers | Casual Trousers & Pants for Women",
       "photo":"https://images.asos-media.com/products/stradivarius-straight-leg-cargo-trouser-in-khaki/203826315-1-khaki/?$n_480w$&wid=476&fit=constrain",
-      "price":"21.99$"
+      "price":21.99
   },
   {
       "id":"PUA PA012",
       "name":"Acheter>Closed Jeans Bella Grande Vente",
       "photo":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/closd/closd3019118c8a/closd3019118c8a_q1_2-0._SX664_QL90_.jpg",
-      "price":"45.12$"
+      "price":45.12
   },
-  {
-      "id":"PUA PA013",
-      "name":"Wonder Denim Jogger Pants",
-      "photo":"https://www.target.com.au/medias/static_content/product/images/full/94/81/A1909481.jpg?impolicy=product_portrait_hero",
-      "price":"45.00$"
-  },
-  {
-      "id":"PUA PA014",
-      "name":"Pingpng 'knit' Denim Jogger Pants - Blue",
-      "photo":"https://cdn.shopify.com/s/files/1/0267/1964/9851/products/A50328B4-6404-49B7-B7F5-CB0DA6A7BBAB_800x.jpg?v=1647776290",
-      "price":"39.00$"
-    }
+  
   ]
