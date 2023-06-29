@@ -42,12 +42,6 @@
     "price":21.75
   },
   {
-    "id":"TUA TA009",
-    "name":"Harajuku Striped Tshirt",
-    "photo":"https://ae01.alicdn.com/kf/Sef522d1f22644955a2dc0a87a4365659E/Harajuku-Striped-T-shirts-For-Men-Oversized-Tees-2022-Man-Casual-Short-Sleeve-Tshirt-Woman-Loose.jpg",
-    "price":9.64
-  },
-  {
     "id":"TUA TB001",
     "name":"Tops & T-shirt For women | Cotton T-shirts & more",
     "photo":"https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/458001/item/eugoods_11_458001.jpg?width=450&impolicy=quality_70",
@@ -83,10 +77,5 @@
     "photo":"https://ae01.alicdn.com/kf/H90521fe13a2646e7befa8c583f619a35z.jpg",
     "price":22.30
   },
-  {
-    "id":"TUA TB009",
-    "name":"Korean Style Nary 6 Colors Casual T-Shirts - Ordicle",
-    "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
-    "price":24.70
-  }
+  
 ]
