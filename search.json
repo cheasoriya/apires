@@ -1,0 +1,644 @@
+[
+ 
+    {
+      "id":"KUA KA001",
+      "name":"Redbubble",
+      "photo":"https://images.ctfassets.net/40akseett7bn/4r0ezqb0H8BwHoNNCUDQvB/aa1710a1e0c6d6e444b0046d0f2a848d/dad_hat_bubble.jpeg",
+      "price":"10.89$"
+    },
+    {
+      "id":"KUA KA002",
+      "name":"Hat Cali Beanie",
+      "photo":"https://www.gandrs.lv/content/items/2019-10/cepure-cali-beanie-1024x768.jpg",
+      "price":"29.99$"
+    },
+    {
+      "id":"KUA KA003",
+      "name":"Bento Knit Beanie",
+      "photo":"https://img.hatshopping.co.uk/Bento-Knit-Beanie-by-Chillouts.54816_pf4.jpg",
+      "price":"25.99$"
+    },
+    {
+      "id":"KUA KA004",
+      "name":"Skate Brim - Visor Beanie for Men",
+      "photo":"https://images.boardriders.com/global/dcshoes-products/all/default/large/adyha03858_dcshoes,f_kvj0_frt1.jpg",
+      "price":"16.40$"
+    },
+    {
+      "id":"KUA KA005",
+      "name":"Army Cadet Style Beanie Cap",
+      "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUu8ZJWm19Hz7gqmpzrzoRj5j7A91IPQIbLo0X9Ktsp4dN2J4oGWEWwGDS5YRLulBsnk&usqp=CAU",
+      "price":"34.00$"
+    },
+    {
+      "id":"KUA KA006",
+      "name":"Cold-Weather Hats",
+      "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCePhwd8RVUjB7p_WDaTQFwgutp31gfd7rFdGAdT2mwZpXMgIazI3qsBpGgal6aa62cc&usqp=CAU",
+      "price":"23.50$"
+    },
+    {
+      "id":"KUA KA007",
+      "name":"Large heads Winter",
+      "photo":"https://i.ebayimg.com/images/g/udsAAOSwvjBhf~OH/s-l500.jpg",
+      "price":"25.50$"
+    },
+    {
+      "id":"KUA KA008",
+      "name":"Bucket Hat",
+      "photo":"https://cdn.shopify.com/s/files/1/0595/2054/9027/products/1117_BUCKET_HAT_BLACK__22148.1589000972.jpg?v=1672805324",
+      "price":"11.45$"
+    },
+    {
+      "id":"KUA KA009",
+      "name":"accasa Trucker Hat Girls Baseball",
+      "photo":"https://i5.walmartimages.com/asr/b2e5f189-df67-4da1-9eb5-12eb915aa5f4.963bcce9c23315ce08847c6eca4b4c79.jpeg",
+      "price":"12.45$"
+    },
+      {
+        "id":"TUA TA001",
+        "name":"Women graphic t-shirt clothing print t-shirt",
+        "photo":"https://down-my.img.susercontent.com/file/8a49c86e1a6f9c0fc53b7423e40f2f43",
+        "price":"9.98$"
+      },
+      {
+        "id":"TUA TA002",
+        "name":"Oversized T-shirt|Women's Oversized Tops & Tshirt",
+        "photo":"https://media.boohoo.com/i/boohoo/dzz35053_black_xl?w=900&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit",
+        "price":"7.99$"
+      },
+      {
+        "id":"TUA TA003",
+        "name":"Oversized Split Seam T-shirt",
+        "photo":"https://media.boohoo.com/i/boohoo/gzz50302_black_xl?w=537&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit",
+        "price":"7.20$"
+      },
+      {
+        "id":"TUA TA004",
+        "name":"Buy Tredy Oversized T-shirt",
+        "photo":"https://images.bewakoof.com/t640/women-s-black-thank-you-next-typography-oversized-t-shirt-509026-1655924600-1.jpg",
+        "price":"17.00$"
+      },
+      {
+        "id":"TUA TA005",
+        "name":"LEOTUDE Cotton Blend Half Sleeve Oversized T-Shirt",
+        "photo":"https://www.jiomart.com/images/product/500x630/rvt36kiztj/leotude-cotton-blend-half-sleeve-oversized-t-shirts-for-women-s-product-images-rvt36kiztj-0-202303310337.jpg",
+        "price":"19.00$"
+      },
+      {
+        "id":"TUA TA006",
+        "name":"Cotton Stretchable Women T-Shirt Solid Color | Navy Blue",
+        "photo":"https://cdn.shopify.com/s/files/1/2360/9367/products/3_55f40350-f195-4d2e-9036-11db01e73629_1024x1024@2x.png?v=1618482513",
+        "price":"15.00$"
+      },
+      {
+        "id":"TUA TA007",
+        "name":"Bes Basic T-Shirt Brand TO SHOP",
+        "photo":"https://www.marieclaire.com.au/media/76172/assembly.jpg?width=720&center=0.0,0.0",
+        "price":"8.99$"
+      },{
+        "id":"TUA TA008",
+        "name":"Black Heavy Oversize T-shirt",
+        "photo":"https://i.etsystatic.com/33866691/r/il/f8cecb/3658581667/il_fullxfull.3658581667_nuby.jpg",
+        "price":"21.75$"
+      },{
+        "id":"TUA TA009",
+        "name":"Harajuku Striped Tshirt",
+        "photo":"https://ae01.alicdn.com/kf/Sef522d1f22644955a2dc0a87a4365659E/Harajuku-Striped-T-shirts-For-Men-Oversized-Tees-2022-Man-Casual-Short-Sleeve-Tshirt-Woman-Loose.jpg",
+        "price":"9.64$"
+      },{
+        "id":"TUA TB001",
+        "name":"Tops & T-shirt For women | Cotton T-shirts & more",
+        "photo":"https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/458001/item/eugoods_11_458001.jpg?width=450&impolicy=quality_70",
+        "price":"11.28$"
+      },{
+        "id":"TUA TB002",
+        "name":"",
+        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
+        "price":""
+      },{
+        "id":"TUA TB003",
+        "name":"Premium Quality Stylish T Shirt For Women",
+        "photo":"https://img.joomcdn.net/a6780b8e1b41a103792f0309b40badf2f773c98f_original.jpeg",
+        "price":"14.25$"
+      },{
+        "id":"TUA TB004",
+        "name":"Short-Sleeve Bluebery Print T-Shirt",
+        "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/13/782/l_p0171178213.jpg",
+        "price":"19.20$"
+      },{
+        "id":"TUA TB005",
+        "name":"Pandacorn T-shirts Sale | Redbubble",
+        "photo":"https://ih1.redbubble.net/image.2952068955.0566/ssrco,classic_tee,womens,fafafa:ca443f4786,front_alt,square_product,600x600.jpg",
+        "price":"11.22$"
+      },{
+        "id":"TUA TB006",
+        "name":"Women T-Shirt Online & Get Upto",
+        "photo":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/22820296/2023/4/19/029870ad-a270-4aa8-8b3e-7a4d2a5cda601681917752173Tshirts1.jpg",
+        "price":"15.25$"
+      },{
+        "id":"TUA TB007",
+        "name":"Womens Icon T-Shirt - Slate Brown",
+        "photo":"https://cdn.shopify.com/s/files/1/0765/1371/products/HERA-4459270.jpg?v=1677594634",
+        "price":"22.30$"
+      },{
+        "id":"TUA TB008",
+        "name":"New York T-Shirt Women 2022 Summer Cotton Casual Vintage",
+        "photo":"https://ae01.alicdn.com/kf/H90521fe13a2646e7befa8c583f619a35z.jpg",
+        "price":"22.30$"
+      },{
+        "id":"TUA TB009",
+        "name":"Korean Style Nary 6 Colors Casual T-Shirts - Ordicle",
+        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
+        "price":"24.70$"
+      },
+      {
+        "id":"TUA TA001",
+        "name":"Women graphic t-shirt clothing print t-shirt",
+        "photo":"https://down-my.img.susercontent.com/file/8a49c86e1a6f9c0fc53b7423e40f2f43",
+        "price":"9.98$"
+      },
+      {
+        "id":"TUA TA002",
+        "name":"Oversized T-shirt|Women's Oversized Tops & Tshirt",
+        "photo":"https://media.boohoo.com/i/boohoo/dzz35053_black_xl?w=900&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit",
+        "price":"7.99$"
+      },
+      {
+        "id":"TUA TA003",
+        "name":"Oversized Split Seam T-shirt",
+        "photo":"https://media.boohoo.com/i/boohoo/gzz50302_black_xl?w=537&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit",
+        "price":"7.20$"
+      },
+      {
+        "id":"TUA TA004",
+        "name":"Buy Tredy Oversized T-shirt",
+        "photo":"https://images.bewakoof.com/t640/women-s-black-thank-you-next-typography-oversized-t-shirt-509026-1655924600-1.jpg",
+        "price":"17.00$"
+      },
+      {
+        "id":"TUA TA005",
+        "name":"LEOTUDE Cotton Blend Half Sleeve Oversized T-Shirt",
+        "photo":"https://www.jiomart.com/images/product/500x630/rvt36kiztj/leotude-cotton-blend-half-sleeve-oversized-t-shirts-for-women-s-product-images-rvt36kiztj-0-202303310337.jpg",
+        "price":"19.00$"
+      },
+      {
+        "id":"TUA TA006",
+        "name":"Cotton Stretchable Women T-Shirt Solid Color | Navy Blue",
+        "photo":"https://cdn.shopify.com/s/files/1/2360/9367/products/3_55f40350-f195-4d2e-9036-11db01e73629_1024x1024@2x.png?v=1618482513",
+        "price":"15.00$"
+      },
+      {
+        "id":"TUA TA007",
+        "name":"Bes Basic T-Shirt Brand TO SHOP",
+        "photo":"https://www.marieclaire.com.au/media/76172/assembly.jpg?width=720&center=0.0,0.0",
+        "price":"8.99$"
+      },{
+        "id":"TUA TA008",
+        "name":"Black Heavy Oversize T-shirt",
+        "photo":"https://i.etsystatic.com/33866691/r/il/f8cecb/3658581667/il_fullxfull.3658581667_nuby.jpg",
+        "price":"21.75$"
+      },{
+        "id":"TUA TA009",
+        "name":"Harajuku Striped Tshirt",
+        "photo":"https://ae01.alicdn.com/kf/Sef522d1f22644955a2dc0a87a4365659E/Harajuku-Striped-T-shirts-For-Men-Oversized-Tees-2022-Man-Casual-Short-Sleeve-Tshirt-Woman-Loose.jpg",
+        "price":"9.64$"
+      },{
+        "id":"TUA TB001",
+        "name":"Tops & T-shirt For women | Cotton T-shirts & more",
+        "photo":"https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/458001/item/eugoods_11_458001.jpg?width=450&impolicy=quality_70",
+        "price":"11.28$"
+      },{
+        "id":"TUA TB002",
+        "name":"",
+        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
+        "price":""
+      },{
+        "id":"TUA TB003",
+        "name":"Premium Quality Stylish T Shirt For Women",
+        "photo":"https://img.joomcdn.net/a6780b8e1b41a103792f0309b40badf2f773c98f_original.jpeg",
+        "price":"14.25$"
+      },{
+        "id":"TUA TB004",
+        "name":"Short-Sleeve Bluebery Print T-Shirt",
+        "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/13/782/l_p0171178213.jpg",
+        "price":"19.20$"
+      },{
+        "id":"TUA TB005",
+        "name":"Pandacorn T-shirts Sale | Redbubble",
+        "photo":"https://ih1.redbubble.net/image.2952068955.0566/ssrco,classic_tee,womens,fafafa:ca443f4786,front_alt,square_product,600x600.jpg",
+        "price":"11.22$"
+      },{
+        "id":"TUA TB006",
+        "name":"Women T-Shirt Online & Get Upto",
+        "photo":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/22820296/2023/4/19/029870ad-a270-4aa8-8b3e-7a4d2a5cda601681917752173Tshirts1.jpg",
+        "price":"15.25$"
+      },{
+        "id":"TUA TB007",
+        "name":"Womens Icon T-Shirt - Slate Brown",
+        "photo":"https://cdn.shopify.com/s/files/1/0765/1371/products/HERA-4459270.jpg?v=1677594634",
+        "price":"22.30$"
+      },{
+        "id":"TUA TB008",
+        "name":"New York T-Shirt Women 2022 Summer Cotton Casual Vintage",
+        "photo":"https://ae01.alicdn.com/kf/H90521fe13a2646e7befa8c583f619a35z.jpg",
+        "price":"22.30$"
+      },{
+        "id":"TUA TB009",
+        "name":"Korean Style Nary 6 Colors Casual T-Shirts - Ordicle",
+        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
+        "price":"24.70$"
+      },
+      {
+        "id":"Shoes SKII IA001",
+        "name":"Girls|HEYDUDE shoes",
+        "photo":"https://cdn.shopify.com/s/files/1/0062/1532/products/40107-1KU_WENDYYOUTHRISE_CROCHETDAHLIA_PAIRSIDE.jpg?v=1677021587&width=400",
+        "price":"25$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IA002",
+        "name":"Womens's Wendy Rise Lunar Rock",
+        "photo":"https://d2p5kj9zr8466f.cloudfront.net/wp-content/uploads/2022/05/12145457/121943259-Hey-Dude-Womens-Wendy-Rise-Chambray-Lunar-Rock-Shoes-footwear-kowear-02__95507.1646897662.jpg",
+        "price":"34$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IA003",
+        "name":"Women's Wendy Rise",
+        "photo":"https://www.stansfootwear.com/wp-content/uploads/2023/03/Womens-Hey-Dude-Wendy-Star-Azora-pair.jpeg",
+        "price":"21$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA004",
+        "name":"Vancas Sneakers Classies",
+        "photo":"https://m.media-amazon.com/images/I/713WdmM3kNL._AC_UY1000_.jpg",
+        "price":"12$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA005",
+        "name":"Women's Wendy Shoes in Gray",
+        "photo":"https://cdn.shopify.com/s/files/1/0062/1532/products/40061-429_WENDYKNITII_BLUEDENIM_PAIRSIDE_grande.jpg?v=1677968168",
+        "price":"32$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA006",
+        "name":"Women|Running Sport SHOES",
+        "photo":"https://m.media-amazon.com/images/I/61OtxDmHYTL._AC_UF350,350_QL80_.jpg",
+        "price":"23$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA007",
+        "name":"Girls White Casual Stylish Sneaker",
+        "photo":"https://m.media-amazon.com/images/I/71FwtvyhoJL._SL1500_.jpg",
+        "price":"25$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA008",
+        "name":"Blue Monster Face Slip-On",
+        "photo":"https://i.ebayimg.com/images/g/SmYAAOSwWYpii7rY/s-l1600.jpg",
+        "price":"45$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IA009",
+        "name":"Slip on Garden Mules Clogs",
+        "photo":"https://i.ebayimg.com/images/g/vfYAAOSwezJj2g69/s-l1600.jpg",
+        "price":"9.99$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB001",
+        "name":"Mules Clogs Sports Sandals",
+        "photo":"https://i.ebayimg.com/images/g/bZIAAOSw07pkCUc7/s-l500.jpg",
+        "price":"12$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB002",
+        "name":"Clogs",
+        "photo":"https://sc04.alicdn.com/kf/H340173efae404493a7ab4ccda1e711c5q/243961528/H340173efae404493a7ab4ccda1e711c5q.jpg",
+        "price":"23.9$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB003",
+        "name":"Trendy Slipper - Flip Flops",
+        "photo":"https://down-ph.img.susercontent.com/file/sg-11134201-23020-3t0dqqspypnv1b_tn",
+        "price":"6.9$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB004",
+        "name":"Women Sandals Summer",
+        "photo":"https://ae01.alicdn.com/kf/H5f310a10c270456683fd05668a811896m/Women-Sandals-Summer-New-Hot-Sale-Cool-Hole-EVA-Clogs-Garden-Beach-Flat-Slippers.jpg",
+        "price":"14.54$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB005",
+        "name":"Women Sandals Sumer Cool Hole Eva",
+        "photo":"https://ae01.alicdn.com/kf/H82acf7f1bac3413c969004ebec241fdbJ/Women-Sandals-Summer-New-Hot-Sale-Cool-Hole-EVA-Clogs-Garden-Beach-Flat-Slippers.jpg",
+        "price":"14.54$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB006",
+        "name":"Two Strap Rubber Slippers",
+        "photo":"https://m.media-amazon.com/images/I/51+O+JLIuUL._UY395_.jpg",
+        "price":"23$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB007",
+        "name":"Beach Slippers Girl Hole Crocse Sandals",
+        "photo":"https://ae01.alicdn.com/kf/H3d07cf603b084757a8fd71841ad51aafE/Women-Summer-Beach-Slippers-Girl-Hole-Crocse-Sandals-Outdoor-Leisure-Flat-Clogs-Woman-Cute-Garden-Flip.jpg",
+        "price":"7$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB008",
+        "name":"Flat Sandals & Flip Flops",
+        "photo":"https://down-my.img.susercontent.com/file/81df5c1190a98622dc8749c0681f2ca8_tn",
+        "price":"7.9$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IB009",
+        "name":"23$",
+        "photo":"https://img.fruugo.com/product/5/10/245567105_max.jpg",
+        "price":"Sajy Women Girls Flip Flop",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IC001",
+        "name":"Luxury Girl Platform",
+        "photo":"https://ae01.alicdn.com/kf/Hf192f4319c564d018070cee50c31e621C/2020-Luxury-Baby-Girl-Platform-Sandalias-Home-Slippers-Children-Casual-Outdoor-Slippers-Girl-Fashion-Black-Beach.jpg_Q90.jpg_.webp",
+        "price":"11$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },{
+        "id":"Shoes SKII IC002",
+        "name":"Uikmnh Women Slippers",
+        "photo":"https://i5.walmartimages.com/asr/aefdb7ba-df40-4ceb-9c21-aa38511cd788.aafbcd4710aaa9b016d43df30d351a7f.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "price":"10.62$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC003",
+        "name":"Toe Sandal",
+        "photo":"https://i.etsystatic.com/16569044/r/il/8822b3/2480510066/il_300x300.2480510066_divn.jpg",
+        "price":"14.99$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC004",
+        "name":"WireCutter",
+        "photo":"https://m.media-amazon.com/images/I/61zoVa4MKiL._AC_UY1000_.jpg",
+        "price":"22.99$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC005",
+        "name":"Girls Slippers",
+        "photo":"https://i5.walmartimages.com/asr/f307b80e-57ec-46e1-95d5-268dc513a63c.a7f06c02926539bfb2524f68cafdfdc0.jpeg",
+        "price":"15.69$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC006",
+        "name":"Women Sandals High",
+        "photo":"https://ae01.alicdn.com/kf/S4a6e963e4e5143a4a9deec30532982f0q/Women-Sandals-High-7-5cm-Summer-Slippers-Lady-Cute-Cartoon-Slides-Thick-Sole-Beach-Slippers-Female.jpg",
+        "price":"14.44$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC007",
+        "name":"Summer Women Slippers",
+        "photo":"https://ae01.alicdn.com/kf/Seec13d0874d4406cb910e57f587e16c9L/Summer-Women-Slippers-Platform-Sandals-Wedges-Shoes-Outdoor-Beach-Slippers-Ladies-Flip-Flops-Garden-Shoes-Fashion.jpg",
+        "price":"18.77$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC008",
+        "name":"Thick Sole Perforated Garden",
+        "photo":"https://ae01.alicdn.com/kf/Sb032444bc0614114bc1d5f7cefb79085d/5cm-Thick-Sole-Perforated-Garden-Shoes-Women-s-Summer-Sandals-Ins-Height-Increases-Outdoor-Slippers-Man.jpg",
+        "price":"8.81$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Shoes SKII IC009",
+        "name":"Womens Casaul Clogs",
+        "photo":"https://ae01.alicdn.com/kf/S64dafd511338434081e864badd804dc6A/2022-Womens-Casual-Clogs-Breathable-Beach-Sandals-Valentine-Slippers-Summer-Men-Women-s-Slippers-Slip-on.jpg",
+        "price":"6.39$",
+        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
+      },
+      {
+        "id":"Hoodie HA0001",
+        "name":"Whycat Cute Cat Hoodies",
+        "photo":"https://m.media-amazon.com/images/I/51lwAPjpANL._AC_SX385_.jpg",
+        "price":"9.99$"
+        }, {
+        "id":"Hoodie HA0002",
+        "name":"Whycat Cute Cat Hoodies SweatShirt",
+        "photo":"https://m.media-amazon.com/images/I/31NbF8R9S+L._AC_.jpg",
+        "price":"12.24$"
+      }, {
+        "id":"Hoodie HA0003",
+        "name":"Gofodn Pullover Hoodie",
+        "photo":"https://m.media-amazon.com/images/I/51ryumv18dL._AC_SX385_.jpg",
+        "price":"14.50$"
+      }, {
+        "id":"Hoodie HA0004",
+        "name":"Xinshide Sweatershirt",
+        "photo":"https://i5.walmartimages.com/asr/337dc572-ecbb-46c1-b3ff-dd58972cfc60.33046b7e8a49173f1c6c49d2af04e053.jpeg",
+        "price":"17.75$"
+      }, {
+        "id":"Hoodie HA0005",
+        "name":"Thick Womens Hoodies Pullover",
+        "photo":"https://m.media-amazon.com/images/I/61HAeG48scL._AC_SX522_.jpg",
+        "price":"4.99$"
+      },
+      {
+        "id":"Hoodie HA0006",
+        "name":"SOLY HUX Women's Dragon latter",
+        "photo":"https://m.media-amazon.com/images/I/61g3aCW-9SL._AC_SY606_.jpg",
+        "price":"6.99$"
+      }, {
+        "id":"Hoodie HA0007",
+        "name":"Women's Pullover Hoodie Crewneck",
+        "photo":"https://i5.walmartimages.com/asr/8e183c4d-92c3-4589-962b-4ed0f51a03bc.718c0d97b3bfce300bee7f6f6244b70b.jpeg",
+        "price":"12.99$"
+      }, {
+        "id":"Hoodie HA0008",
+        "name":"Hemlock Teen Girls Hoodiess Heart",
+        "photo":"https://m.media-amazon.com/images/I/61LLzHzIaXL._AC_UY1100_.jpg",
+        "price":"6.66$"
+      }, {
+        "id":"Hoodie HA0009",
+        "name":"Gap Logo Hoodie",
+        "photo":"https://www.gap.si/images/magonline/media/edited/a/a5/a58/a58558b4-e43b-4e7b-b7ec-c3b0b6b2ed0c.N.jpg",
+        "price":"11.30$"
+      }, {
+        "id":"Hoodie HB0001",
+        "name":"DrawString Hoodie",
+        "photo":"https://i.pinimg.com/originals/65/50/bc/6550bc49f372eaf20138a3355488b94b.jpg",
+        "price":"17.99$"
+      }, {
+        "id":"Hoodie HB0002",
+        "name":"Maroon/Black Color Block Hoodie",
+        "photo":"https://m.media-amazon.com/images/I/515DwMIlS7L._AC_SX342_.jpg",
+        "price":"10.99$"
+      }, {
+        "id":"Hoodie HB0003",
+        "name":"Women's Fashion Hoodies sweatShirt",
+        "photo":"https://m.media-amazon.com/images/I/51xbIx0N+uL._AC_SX385_.jpg",
+        "price":"14.99$"
+      }, {
+        "id":"Hoodie HB0004",
+        "name":"Kawaii SweatShirt",
+        "photo":"https://m.media-amazon.com/images/I/31sIBs4Wt3L._SL500_FMwebp_.jpg",
+        "price":"17.99$"
+      }, {
+        "id":"Hoodie HB0005",
+        "name":"Lovely Sheep Print Pastel",
+        "photo":"https://images-na.ssl-images-amazon.com/images/I/61WxrnLhBzL._AC_SR462,693_.jpg",
+        "price":"12.49$"
+      }, {
+        "id":"Hoodie HB0006",
+        "name":"WOCACHI Teen Girls Kawaii Dinosaur",
+        "photo":"https://m.media-amazon.com/images/I/71TiRY0aRdL._AC_SX385_.jpg",
+        "price":"17.99$"
+      }, {
+        "id":"Hoodie HB0007",
+        "name":"VOSS Women Cute Dinosaur",
+        "photo":"https://i5.walmartimages.com/asr/1a505c68-2c9b-4c3e-8426-1119d0dca510.1e12beb543d6b3778253fb751e5e77d5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+        "price":"22.00$"
+      }, {
+        "id":"Hoodie HB0008",
+        "name":"ZAFUL Two Tone Fleece Lined Bicolor Hoodie",
+        "photo":"https://i.pinimg.com/736x/e7/63/f9/e763f9fb45f38104e779b1f990351ef8.jpg",
+        "price":"11.00$"
+      }, {
+        "id":"Hoodie HB0009",
+        "name":"Angel Love-Cat Print Two-Tone Hoodie",
+        "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/GalleryImage/19/579/L_g0121857919.jpg",
+        "price":"12.23$"
+      }, {
+        "id":"Hoodie HC0001",
+        "name":"Hamster Print Color-Block Hoodie",
+        "photo":"https://d1flfk77wl2xk4.cloudfront.net/Assets/20/016/XXL_p0132501620.jpg",
+        "price":"29.90$"
+      }, {
+        "id":"Hoodie HC0002",
+        "name":"Autumn New Japanese Women HaraJuku",
+        "photo":"https://www.dhresource.com/260x260/f2/albu/g10/M00/74/24/rBVaWVwSAq6AXRALAAMmv6NJNDo225.jpg",
+        "price":"30.99$"
+      },{
+        "id":"Hoodie HC0003",
+        "name":"Plus Size Fall Women's SweatShirts",
+        "photo":"https://m.media-amazon.com/images/I/315bM8IrSKL._AC_.jpg",
+        "price":"21.21$"
+      },
+      {
+        "id":"UOA JA001",
+        "name":"Veronika Beard hi low",
+        "photo":"https://di2ponv0v5otw.cloudfront.net/posts/2023/04/14/6439772217e49cccda5a3c3c/m_644144dfbd66cdf941b7aa96.jpg",
+        "price":"11.00$"
+      },
+      {
+        "id":"UOA JA002",
+        "name":"Brown Jacket Leather",
+        "photo":"https://cdn2.stylecraze.com/wp-content/uploads/2021/10/10-Best-Brown-Leather-Jackets-For-Women--2021-Update.jpg",
+        "price":"24.99$"
+      },
+      {
+        "id":"UOA JA003",
+        "name":"Women's Jackets New Look",
+        "photo":"https://media2.newlookassets.com/i/newlook/851729310.jpg?strip=true&qlt=50",
+        "price":""
+      },
+      {
+        "id":"UOA JA004",
+        "name":"John Lewis, Blazers",
+        "photo":"https://johnlewis.scene7.com/is/image/JohnLewis/005610404?",
+        "price":"14.99$"
+      },
+      {
+        "id":"UOA JA005",
+        "name":"Blazers for Womens Deep red",
+        "photo":"https://www.whitehouseblackmarket.com/Product_Images/570347142_4202.jpg?imgPolicy=productMed",
+        "price":"15.99$"
+      },
+      {
+        "id":"UOA JA006",
+        "name":"Ladies Jackets river",
+        "photo":"https://images.riverisland.com/is/image/RiverIsland/blue-denim-blazer-jacket_754523_main?$ProductListingPortraitSmall$",
+        "price":"29.00$"
+      },
+      {
+        "id":"UOA JA007",
+        "name":"Trendyol Lapel Collar Buttoned",
+        "photo":"https://media.6media.me/media/catalog/product/4/8/485873256-1.jpg",
+        "price":"31.99$"
+      },
+      {
+        "id":"UOA JA008",
+        "name":"Plus Size Korean Blazer Jacket",
+        "photo":"https://cdn.shopify.com/s/files/1/0062/6124/4004/products/12_192_1200x1200.jpg?v=1635685444",
+        "price":"69.90$"
+      },
+      {
+        "id":"UOA JA009",
+        "name":"FEONFLY Vintage Single Breasted",
+        "photo":"https://i.pinimg.com/736x/c2/86/aa/c286aa9e2bfeb768240bb0fc0ff7597b.jpg",
+        "price":"41.99$"
+      },
+      {
+        "id":"UOA JB001",
+        "name":"Women Coat Check Long Sleeve Cotton Jacket",
+        "photo":"https://i.etsystatic.com/23105486/r/il/c09760/2373097511/il_fullxfull.2373097511_bcey.jpg",
+        "price":"42.97$"
+      },
+      {
+        "id":"UOA JB002",
+        "name":"Fashion B Women's Elegants Professional",
+        "photo":"https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/63/580973/1.jpg?4505",
+        "price":"11.15$"
+      },
+      {
+        "id":"UOA JB003",
+        "name":"Denim Jacket for Girls/Women",
+        "photo":"https://cf.shopee.ph/file/0b16f8a3a3e7db741739516914675a25",
+        "price":"12.99$"
+      },
+      {
+        "id":"UOA JB004",
+        "name":"XZmy Women Casual Solid Denim Jean Trucker",
+        "photo":"https://m.media-amazon.com/images/I/61YnBVi+lDL._AC_UL1001_.jpg",
+        "price":"27.99$"
+      },
+      {
+        "id":"UOA JB005",
+        "name":"Leather Jacket - Etsy",
+        "photo":"https://i.etsystatic.com/32999474/r/il/4deb55/4161634085/il_570xN.4161634085_4zrn.jpg",
+        "price":"58.65$"
+      },
+      {
+        "id":"UOA JB006",
+        "name":"Nwt Cropped Leather Jacket",
+        "photo":"https://di2ponv0v5otw.cloudfront.net/posts/2022/03/31/6245c87260fded91fab8ef60/m_6245c8ceda1041736fada7fe.jpg",
+        "price":"45.00$"
+      },
+      {
+        "id":"UOA JB007",
+        "name":"COCONI Zip solid Blazer Women",
+        "photo":"https://my-test-11.slatic.net/p/fbd5509fc37994a0fc43433cbc296d8b.jpg",
+        "price":"19.99$"
+      },
+      {
+        "id":"UOA JB008",
+        "name":"York Bassic Black Blazer",
+        "photo":"https://img.shopperboard.com/22376137/14729205284935-1.jpg",
+        "price":"27.99$"
+      },
+      {
+        "id":"UOA JB009",
+        "name":"Jackets & Outerwear Best",
+        "photo":"https://down-ph.img.susercontent.com/file/aa4deaf94ad0359fb5c7c5cf0cb2e75a",
+        "price":"32.99$"
+      },
+      {
+        "id":"UOA JC001",
+        "name":"Suits & Blazers Korean Loose",
+        "photo":"https://www.dhresource.com/0x0/f2/albu/g8/M01/50/EF/rBVaVF5nbECAPVH0AAC-vntDaoo700.jpg",
+        "price":"33.99$"
+      }
+    ]
