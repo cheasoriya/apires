@@ -19,12 +19,6 @@
       "price":"25.99$"
     },
     {
-      "id":"KUA KA004",
-      "name":"Skate Brim - Visor Beanie for Men",
-      "photo":"https://images.boardriders.com/global/dcshoes-products/all/default/large/adyha03858_dcshoes,f_kvj0_frt1.jpg",
-      "price":"16.40$"
-    },
-    {
       "id":"KUA KA005",
       "name":"Army Cadet Style Beanie Cap",
       "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUu8ZJWm19Hz7gqmpzrzoRj5j7A91IPQIbLo0X9Ktsp4dN2J4oGWEWwGDS5YRLulBsnk&usqp=CAU",
@@ -41,12 +35,6 @@
       "name":"Large heads Winter",
       "photo":"https://i.ebayimg.com/images/g/udsAAOSwvjBhf~OH/s-l500.jpg",
       "price":"25.50$"
-    },
-    {
-      "id":"KUA KA008",
-      "name":"Bucket Hat",
-      "photo":"https://cdn.shopify.com/s/files/1/0595/2054/9027/products/1117_BUCKET_HAT_BLACK__22148.1589000972.jpg?v=1672805324",
-      "price":"11.45$"
     },
     {
       "id":"KUA KA009",
@@ -85,12 +73,6 @@
         "price":"19.00$"
       },
       {
-        "id":"TUA TA006",
-        "name":"Cotton Stretchable Women T-Shirt Solid Color | Navy Blue",
-        "photo":"https://cdn.shopify.com/s/files/1/2360/9367/products/3_55f40350-f195-4d2e-9036-11db01e73629_1024x1024@2x.png?v=1618482513",
-        "price":"15.00$"
-      },
-      {
         "id":"TUA TA007",
         "name":"Bes Basic T-Shirt Brand TO SHOP",
         "photo":"https://www.marieclaire.com.au/media/76172/assembly.jpg?width=720&center=0.0,0.0",
@@ -131,20 +113,10 @@
         "photo":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/22820296/2023/4/19/029870ad-a270-4aa8-8b3e-7a4d2a5cda601681917752173Tshirts1.jpg",
         "price":"15.25$"
       },{
-        "id":"TUA TB007",
-        "name":"Womens Icon T-Shirt - Slate Brown",
-        "photo":"https://cdn.shopify.com/s/files/1/0765/1371/products/HERA-4459270.jpg?v=1677594634",
-        "price":"22.30$"
-      },{
         "id":"TUA TB008",
         "name":"New York T-Shirt Women 2022 Summer Cotton Casual Vintage",
         "photo":"https://ae01.alicdn.com/kf/H90521fe13a2646e7befa8c583f619a35z.jpg",
         "price":"22.30$"
-      },{
-        "id":"TUA TB009",
-        "name":"Korean Style Nary 6 Colors Casual T-Shirts - Ordicle",
-        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
-        "price":"24.70$"
       },
       {
         "id":"TUA TA001",
@@ -177,12 +149,6 @@
         "price":"19.00$"
       },
       {
-        "id":"TUA TA006",
-        "name":"Cotton Stretchable Women T-Shirt Solid Color | Navy Blue",
-        "photo":"https://cdn.shopify.com/s/files/1/2360/9367/products/3_55f40350-f195-4d2e-9036-11db01e73629_1024x1024@2x.png?v=1618482513",
-        "price":"15.00$"
-      },
-      {
         "id":"TUA TA007",
         "name":"Bes Basic T-Shirt Brand TO SHOP",
         "photo":"https://www.marieclaire.com.au/media/76172/assembly.jpg?width=720&center=0.0,0.0",
@@ -223,27 +189,10 @@
         "photo":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/22820296/2023/4/19/029870ad-a270-4aa8-8b3e-7a4d2a5cda601681917752173Tshirts1.jpg",
         "price":"15.25$"
       },{
-        "id":"TUA TB007",
-        "name":"Womens Icon T-Shirt - Slate Brown",
-        "photo":"https://cdn.shopify.com/s/files/1/0765/1371/products/HERA-4459270.jpg?v=1677594634",
-        "price":"22.30$"
-      },{
         "id":"TUA TB008",
         "name":"New York T-Shirt Women 2022 Summer Cotton Casual Vintage",
         "photo":"https://ae01.alicdn.com/kf/H90521fe13a2646e7befa8c583f619a35z.jpg",
         "price":"22.30$"
-      },{
-        "id":"TUA TB009",
-        "name":"Korean Style Nary 6 Colors Casual T-Shirts - Ordicle",
-        "photo":"https://cdn.shopify.com/s/files/1/0024/3882/4006/products/product-image-1341670708_300x.jpg?v=1586214784",
-        "price":"24.70$"
-      },
-      {
-        "id":"Shoes SKII IA001",
-        "name":"Girls|HEYDUDE shoes",
-        "photo":"https://cdn.shopify.com/s/files/1/0062/1532/products/40107-1KU_WENDYYOUTHRISE_CROCHETDAHLIA_PAIRSIDE.jpg?v=1677021587&width=400",
-        "price":"25$",
-        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
       },
       {
         "id":"Shoes SKII IA002",
@@ -253,24 +202,13 @@
         "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
       },
       {
-        "id":"Shoes SKII IA003",
-        "name":"Women's Wendy Rise",
-        "photo":"https://www.stansfootwear.com/wp-content/uploads/2023/03/Womens-Hey-Dude-Wendy-Star-Azora-pair.jpeg",
-        "price":"21$",
-        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
-      },{
         "id":"Shoes SKII IA004",
         "name":"Vancas Sneakers Classies",
         "photo":"https://m.media-amazon.com/images/I/713WdmM3kNL._AC_UY1000_.jpg",
         "price":"12$",
         "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
-      },{
-        "id":"Shoes SKII IA005",
-        "name":"Women's Wendy Shoes in Gray",
-        "photo":"https://cdn.shopify.com/s/files/1/0062/1532/products/40061-429_WENDYKNITII_BLUEDENIM_PAIRSIDE_grande.jpg?v=1677968168",
-        "price":"32$",
-        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
-      },{
+      },
+      {
         "id":"Shoes SKII IA006",
         "name":"Women|Running Sport SHOES",
         "photo":"https://m.media-amazon.com/images/I/61OtxDmHYTL._AC_UF350,350_QL80_.jpg",
@@ -306,13 +244,8 @@
         "photo":"https://sc04.alicdn.com/kf/H340173efae404493a7ab4ccda1e711c5q/243961528/H340173efae404493a7ab4ccda1e711c5q.jpg",
         "price":"23.9$",
         "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
-      },{
-        "id":"Shoes SKII IB003",
-        "name":"Trendy Slipper - Flip Flops",
-        "photo":"https://down-ph.img.susercontent.com/file/sg-11134201-23020-3t0dqqspypnv1b_tn",
-        "price":"6.9$",
-        "detail":"A shoe is an item of footwear intended to protect and comfort the human foot. Though the human foot can adapt to varied terrains and climate conditions, it is vulnerable, and shoes provide protection. Form was originally tied to function but over time shoes also became fashion items"
-      },{
+      },
+     {
         "id":"Shoes SKII IB004",
         "name":"Women Sandals Summer",
         "photo":"https://ae01.alicdn.com/kf/H5f310a10c270456683fd05668a811896m/Women-Sandals-Summer-New-Hot-Sale-Cool-Hole-EVA-Clogs-Garden-Beach-Flat-Slippers.jpg",
@@ -554,22 +487,10 @@
         "price":"31.99$"
       },
       {
-        "id":"UOA JA008",
-        "name":"Plus Size Korean Blazer Jacket",
-        "photo":"https://cdn.shopify.com/s/files/1/0062/6124/4004/products/12_192_1200x1200.jpg?v=1635685444",
-        "price":"69.90$"
-      },
-      {
         "id":"UOA JA009",
         "name":"FEONFLY Vintage Single Breasted",
         "photo":"https://i.pinimg.com/736x/c2/86/aa/c286aa9e2bfeb768240bb0fc0ff7597b.jpg",
         "price":"41.99$"
-      },
-      {
-        "id":"UOA JB001",
-        "name":"Women Coat Check Long Sleeve Cotton Jacket",
-        "photo":"https://i.etsystatic.com/23105486/r/il/c09760/2373097511/il_fullxfull.2373097511_bcey.jpg",
-        "price":"42.97$"
       },
       {
         "id":"UOA JB002",
@@ -590,12 +511,6 @@
         "price":"27.99$"
       },
       {
-        "id":"UOA JB005",
-        "name":"Leather Jacket - Etsy",
-        "photo":"https://i.etsystatic.com/32999474/r/il/4deb55/4161634085/il_570xN.4161634085_4zrn.jpg",
-        "price":"58.65$"
-      },
-      {
         "id":"UOA JB006",
         "name":"Nwt Cropped Leather Jacket",
         "photo":"https://di2ponv0v5otw.cloudfront.net/posts/2022/03/31/6245c87260fded91fab8ef60/m_6245c8ceda1041736fada7fe.jpg",
@@ -612,12 +527,6 @@
         "name":"York Bassic Black Blazer",
         "photo":"https://img.shopperboard.com/22376137/14729205284935-1.jpg",
         "price":"27.99$"
-      },
-      {
-        "id":"UOA JB009",
-        "name":"Jackets & Outerwear Best",
-        "photo":"https://down-ph.img.susercontent.com/file/aa4deaf94ad0359fb5c7c5cf0cb2e75a",
-        "price":"32.99$"
       },
       {
         "id":"UOA JC001",
